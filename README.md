@@ -29,7 +29,7 @@
 
 
 ## 🌐 Contact Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Beso#8722) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61585101582988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/ahmed-basiony2](https://www.linkedin.com/in/ahmed-basiony2/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ahmed.basiiony@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Beso#8722) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61585101582988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-basiony2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ahmed.basiiony@gmail.com) 
 
 ## 🔝 Top Contributed Repo
 [![Repo](https://img.shields.io/badge/Project-Gold%20%26%20Oil%20Predictions-blue?style=for-the-badge&logo=github)](https://github.com/hpelnaggar/DEPI-Final-Project---Gold-and-Oil-Predictions.git)
