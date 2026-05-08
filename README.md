@@ -2,8 +2,8 @@
 <img width="480" height="268" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
 
 
-# 💫 About Me:
-Hi, I'm Ahmed Basiony 👋<br>Junior Data Engineer <br><br>🧠 About Me<br><br>Aspiring Junior Data Engineer with a strong foundation in statistics and computer science, passionate about building clean and efficient data pipelines and learning how scalable data systems support real-world applications.<br>Aiming to contribute as a Data Engineer by developing reliable data solutions and continuously improving technical and analytical skills.<br><br>🎓 Junior Data Engineering <br>🗄️ Learning Databases & SQL<br>⚙️ Exploring ETL Processes & Data Pipelines<br>☁️ Beginner in Cloud & Big Data Technologies<br>📊 Data Analysis & Visualization<br>🐍 Python & Problem Solving Enthusiast<br><br>
+# 🧠 About Me:
+Hi, I'm Ahmed Basiony 👋<br>Junior Data Engineer <br><br>Aspiring Junior Data Engineer with a strong foundation in statistics and computer science, passionate about building clean and efficient data pipelines and learning how scalable data systems support real-world applications.<br>Aiming to contribute as a Data Engineer by developing reliable data solutions and continuously improving technical and analytical skills.<br><br>🎓 Junior Data Engineering <br>🗄️ Learning Databases & SQL<br>⚙️ Exploring ETL Processes & Data Pipelines<br>☁️ Beginner in Cloud & Big Data Technologies<br>📊 Data Analysis & Visualization<br>🐍 Python & Problem Solving Enthusiast<br><br>
 
 
 ## 🌐 Socials:
