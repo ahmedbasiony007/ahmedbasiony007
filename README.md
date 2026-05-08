@@ -1,9 +1,8 @@
 
-<img width="800" height="400" position= "center" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
+<img width="800" height="400" align="center" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
 
 # Hi, I'm Ahmed Basiony 👋
-## Junior Data Engineer 
-
+<h2 align="center">Junior Data Engineer | Data Analyst </h2>
 
 
 # 🧠 About Me:
