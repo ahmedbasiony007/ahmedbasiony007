@@ -25,9 +25,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmedbasiony007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ![](https://github.com/hpelnaggar/DEPI-Final-Project---Gold-and-Oil-Predictions.git)
-
 ![](https://github.com/ahmedbasiony007/Flask_project.git)
 
 ---
