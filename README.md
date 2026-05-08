@@ -29,4 +29,4 @@
 [![Repo](https://img.shields.io/badge/Project-Flask%20Project-blue?style=for-the-badge&logo=flask)](https://github.com/ahmedbasiony007/Flask_project.git)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahmedbasiony007&icon=0&color="cyan")](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ahmedbasiony007&icon=0&color="blue")](https://visitcount.itsvg.in)
