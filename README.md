@@ -27,5 +27,6 @@
 [![Repo](https://img.shields.io/badge/Project-Gold%20%26%20Oil%20Predictions-blue?style=for-the-badge&logo=github)](https://github.com/hpelnaggar/DEPI-Final-Project---Gold-and-Oil-Predictions.git)
 
 [![Repo](https://img.shields.io/badge/Project-Flask%20Project-black?style=for-the-badge&logo=flask)](https://github.com/ahmedbasiony007/Flask_project.git)
+
 ---
 [![](https://komarev.com/ghpvc/?username=ahmedbasiony007&icon=0&color="cyan")](https://visitcount.itsvg.in)
