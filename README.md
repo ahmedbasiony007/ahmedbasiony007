@@ -24,9 +24,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Beso#8722) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1E5XmxA2Hh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-basiony2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ahmed.basiiony@gmail.com) 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedbasiony007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <link>(https://github.com/hpelnaggar/DEPI-Final-Project---Gold-and-Oil-Predictions.git)</link>
-![](https://github.com/ahmedbasiony007/Flask_project.git)
+<Link>(https://github.com/ahmedbasiony007/Flask_project.git)</link>
 
 ---
 [![](https://komarev.com/ghpvc/?username=ahmedbasiony007&icon=0&color="cyan")](https://visitcount.itsvg.in)
