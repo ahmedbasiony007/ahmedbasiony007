@@ -1,8 +1,8 @@
 
-<img width="480" height="268" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
+<img width="700" height="268" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
 
 # Hi, I'm Ahmed Basiony 👋
-<br> Junior Data Engineer <br> 
+ Junior Data Engineer 
 
 
 # 🧠 About Me:
@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Beso#8722) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1E5XmxA2Hh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-basiony2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ahmed.basiiony@gmail.com) 
 
 ### 🔝 Top Contributed Repo
