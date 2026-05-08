@@ -3,8 +3,8 @@
 
 <h1 align="center" > Hi, I'm Ahmed Basiony 👋 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%10Engineer-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%10Analyst-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%30Engineer-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%30Analyst-FF6F00?style=for-the-badge" />
 </p>
 
 ---
