@@ -4,7 +4,6 @@
 <h1 align="center" > Hi, I'm Ahmed Basiony 👋 </h1>
 <h1 align="center">  Data Engineer | Data Analyst </h1>
 
-<h1> </h1>
 
 # 🧠 About Me:
 <br>Aspiring Junior Data Engineer with a strong foundation in statistics and computer science, passionate about building clean and efficient data pipelines and learning how scalable data systems support real-world applications.<br>Aiming to contribute as a Data Engineer by developing reliable data solutions and continuously improving technical and analytical skills.<br><br>🎓 Junior Data Engineering <br>🗄️ Learning Databases & SQL<br>⚙️ Exploring ETL Processes & Data Pipelines<br>☁️ Beginner in Cloud & Big Data Technologies<br>📊 Data Analysis & Visualization<br>🐍 Python & Problem Solving Enthusiast<br><br>
