@@ -2,8 +2,9 @@
 <img width="900" height="500" align="center" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" src="https://github.com/user-attachments/assets/6c69a5de-7386-4832-9a68-b220695dcad0" />
 
 <h1 align="center" > Hi, I'm Ahmed Basiony 👋 </h1>
-<span style="font-size:100px;"  align="center"  > Data Engineer | Data Analyst </span>
-
+<p align="center">
+  <b><i>Data Engineer | Data Analyst</i></b>
+</p>
 ---
 # 🧠 About Me:
 <br>Aspiring Junior Data Engineer with a strong foundation in statistics and computer science, passionate about building clean and efficient data pipelines and learning how scalable data systems support real-world applications.<br>Aiming to contribute as a Data Engineer by developing reliable data solutions and continuously improving technical and analytical skills.<br><br>🎓 Junior Data Engineering <br>🗄️ Learning Databases & SQL<br>⚙️ Exploring ETL Processes & Data Pipelines<br>☁️ Beginner in Cloud & Big Data Technologies<br>📊 Data Analysis & Visualization<br>🐍 Python & Problem Solving Enthusiast<br><br>
